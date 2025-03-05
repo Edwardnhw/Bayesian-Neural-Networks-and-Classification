@@ -1,6 +1,6 @@
 # Naive Bayes and Gaussian Classifier for Digit Classification
 
-**Author**: Hon Wa Ng
+**Author**: Hon Wa Ng\
 **Date**: October 2024  
 
 ## Overview
